@@ -20,11 +20,11 @@ So feel free to use it guys hehehe :kissing_closed_eyes:
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/pomodoro-timer.git
+git clone https://github.com/aimxnaim/pomodoro.git
 ```
 2. Change to the project directory:
 ```
-cd pomodoro-timer
+cd pomodoro
 ```
 3. Run the Python script:
 ```
